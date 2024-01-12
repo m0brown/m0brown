@@ -28,7 +28,7 @@ I am a recent computer science graduate.
 
 - :seedling: Always exploring new languages and tools.
 
-- :zap: In my free time, I love to read (75 books in 2022), climb (indoor, outdoor, bouldering, and ice), and run (raced in 15+ 10K’s and half-marathons)!
+- :zap: In my free time, I love to read (50 books in 2023), climb (indoor, outdoor, bouldering, and ice), and run (raced in 15+ 10K’s and half-marathons)!
 
 - :postbox: How to reach me - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marysha-brown/)
 
